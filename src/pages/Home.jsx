@@ -250,7 +250,7 @@ const Home = () => {
 
           <div className="col-2" style={{ textAlign: "center" }}>
             <img
-              src="/back.png"
+              src="src/assets/black.png"
               alt="img4"
               style={{ width: "100%", maxWidth: "120px" }}
             />
@@ -357,7 +357,7 @@ const Home = () => {
             {/* Image */}
             <div className="flex-shrink-0">
               <img
-                src="..src/assets/Illustration (1).png"
+                src="src/assets/Illustration (1).png"
                 className="h-40 w-auto object-contain"
               />
             </div>
@@ -404,7 +404,7 @@ const Home = () => {
             {/* Image */}
             <div className="flex-shrink-0">
               <img
-                src="..src/assets/smile.png"
+                src="src/assets/smile.png"
                 className="h-40 w-auto object-contain"
               />
             </div>
@@ -445,7 +445,7 @@ const Home = () => {
             {/* Image */}
             <div className="flex-shrink-0">
               <img
-                src="..src/assets/tokyo-sending-messages-from-one-place-to-another 1.png"
+                src="src/assets/tokyo-sending-messages-from-one-place-to-another 1.png"
                 className="h-40 w-auto object-contain"
               />
             </div>
@@ -492,7 +492,7 @@ const Home = () => {
             {/* Image */}
             <div className="flex-shrink-0">
               <img
-                src="..src/assets/tokyo-many-browser-windows-with-different-information 1.png"
+                src="src/assets/tokyo-many-browser-windows-with-different-information 1.png"
                 className="h-40 w-auto object-contain"
               />
             </div>
@@ -533,7 +533,7 @@ const Home = () => {
             {/* Image */}
             <div className="flex-shrink-0">
               <img
-                src="..src/assets/last.png"
+                src="src/assets/last.png"
                 className="h-40 w-auto object-contain"
               />
             </div>
@@ -569,7 +569,7 @@ const Home = () => {
           {/* Right Section */}
           <div className="flex-shrink-0">
             <img
-              src="..src/assets/687d8581-cefe-4786-8f60-ee9d840afbd2-removebg-preview.png"
+              src="src/assets/687d8581-cefe-4786-8f60-ee9d840afbd2-removebg-preview.png"
               alt="Digital Marketing"
               className="h-68 w-auto object-contain"
             />
@@ -957,7 +957,7 @@ const Home = () => {
           {/* Right Graphic Section */}
           <div className="w-1/2 relative flex items-center justify-center">
 
-            <img src="..src/assets/Screenshot 2025-12-05 122734.png" alt="" />
+            <img src="src/assets/Screenshot 2025-12-05 122734.png" alt="" />
           </div>
 
         </div>
