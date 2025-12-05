@@ -250,7 +250,7 @@ const Home = () => {
 
           <div className="col-2" style={{ textAlign: "center" }}>
             <img
-              src="/black-netflix-text-logo-701751694792594emxo6cr4pb-removebg-preview.png"
+              src="/back.png"
               alt="img4"
               style={{ width: "100%", maxWidth: "120px" }}
             />
